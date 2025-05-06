@@ -1,4 +1,5 @@
 # my-irst-github-repository
+
 Here is my irst github repository let's get started
 
-readme.md filejust got changed. This file was modified locally
+Tis line was modified manually during conflicts resolution
